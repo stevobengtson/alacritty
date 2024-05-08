@@ -22,3 +22,8 @@ option_as_alt = "Both"
 normal.family = "MesloLGS Nerd Font Mono"
 size = 16
 
+[keyboard]
+bindings = [
+ { key = "Return", mods = "Alt", action = "ToggleFullscreen" },
+]
+

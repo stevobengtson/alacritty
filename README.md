@@ -19,6 +19,7 @@ You should also have git installed
 ## Install Meslo Nerd Font (or other preferred font)
 
 `brew tap homebrew/cask-fonts`
+
 `brew install font-meslo-lg-nerd-font`
 
 ## Configure Alacritty
@@ -30,4 +31,5 @@ Check out the repository to the config folder
 ## Install PowerLevel10K command line theme
 
 `brew install powerlevel10k`
+
 `echo "source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme" >> ~/.zshrc`

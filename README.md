@@ -25,7 +25,7 @@ You should also have git installed
 
 Check out the repository to the config folder
 
-`git checkout https://github.com/stevobengtson/alacritty.git ~/.config/alacritty`
+`git clone https://github.com/stevobengtson/alacritty.git ~/.config/alacritty`
 
 ## Install PowerLevel10K command line theme
 
